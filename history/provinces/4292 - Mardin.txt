@@ -8,7 +8,6 @@ trade_goods = wool
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = ARD
 add_core = Z39
 add_core = HSN
 add_permanent_claim = BYZ

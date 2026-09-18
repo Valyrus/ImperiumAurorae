@@ -1,5 +1,5 @@
-owner = Z09
-controller = Z09
+owner = TMB
+controller = TMB
 capital = "Tawdani"
 is_city = yes
 culture = tuareg
@@ -8,8 +8,7 @@ trade_goods = salt
 base_tax = 1
 base_production = 1
 base_manpower = 3
-add_core = Z09
-add_permanent_claim = MOR
+add_core = TMB
 discovered_by = MGE
 discovered_by = eastern
 discovered_by = indian

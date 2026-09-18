@@ -8,6 +8,7 @@ trade_goods = cloth
 base_tax = 8
 base_production = 3
 base_manpower = 4
+fort_15th = yes
 add_core = MOR
 add_core = FEZ
 discovered_by = MGE

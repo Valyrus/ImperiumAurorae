@@ -1,5 +1,5 @@
-owner = Z09
-controller = Z09
+owner = JNN
+controller = JNN
 capital = "Isaq"
 is_city = yes
 culture = bozo
@@ -9,7 +9,6 @@ base_tax = 2
 base_production = 4
 base_manpower = 1
 add_core = JNN
-add_core = Z09
 discovered_by = MGE
 discovered_by = eastern
 discovered_by = indian

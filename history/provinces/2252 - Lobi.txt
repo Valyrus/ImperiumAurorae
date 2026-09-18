@@ -1,5 +1,5 @@
-owner = Z09
-controller = Z09
+owner = KNG
+controller = KNG
 capital = "Lobi"
 is_city = yes
 culture = dyola
@@ -8,9 +8,7 @@ trade_goods = gold
 base_tax = 1
 base_production = 1
 base_manpower = 3
-add_core = Z09
 add_core = KNG
-add_permanent_claim = MAL
 discovered_by = MGE
 discovered_by = eastern
 discovered_by = indian

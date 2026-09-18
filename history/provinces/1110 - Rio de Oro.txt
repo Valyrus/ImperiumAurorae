@@ -1,5 +1,5 @@
-owner = MOR
-controller = MOR
+owner = SOS
+controller = SOS
 capital = "Agadir"
 is_city = yes
 culture = moroccan
@@ -11,7 +11,6 @@ base_production = 3
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = MOR
 add_core = SOS
 discovered_by = MGE
 discovered_by = eastern

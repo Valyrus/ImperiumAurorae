@@ -1,5 +1,5 @@
-owner = Z00
-controller = Z00
+owner = GOL
+controller = GOL
 capital = "Variegansk"
 is_city = yes
 culture = ostyaki

@@ -1,5 +1,5 @@
-owner = MOR
-controller = MOR
+owner = MRK
+controller = MRK
 capital = "Marrakech"
 is_city = yes
 culture = moroccan
@@ -9,7 +9,6 @@ fort_15th = yes
 base_tax = 10
 base_production = 6
 base_manpower = 3
-add_core = MOR
 add_core = MRK
 discovered_by = MGE
 discovered_by = eastern

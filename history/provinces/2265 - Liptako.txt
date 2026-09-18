@@ -1,5 +1,5 @@
-owner = Z09
-controller = Z09
+owner = SON
+controller = SON
 capital = "Dori"
 is_city = yes
 culture = songhai
@@ -9,7 +9,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 3
 add_core = SON
-add_core = Z09
 discovered_by = MGE
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = MAL
-controller = MAL
+owner = TMB
+controller = TMB
 capital = "Tadmekka al-Suq"
 is_city = yes
 culture = tuareg
@@ -8,8 +8,7 @@ trade_goods = wool
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = MAL
-add_core = Z09
+add_core = TMB
 discovered_by = MGE
 discovered_by = eastern
 discovered_by = indian

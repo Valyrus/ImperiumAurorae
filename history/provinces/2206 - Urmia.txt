@@ -11,7 +11,6 @@ base_manpower = 2
 fort_15th = yes
 add_core = MGR
 add_core = TBR
-add_permanent_claim = PER
 discovered_by = MGE
 discovered_by = eastern
 discovered_by = indian

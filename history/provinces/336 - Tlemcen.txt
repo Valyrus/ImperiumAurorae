@@ -1,5 +1,5 @@
-owner = MOR
-controller = MOR
+owner = Y31
+controller = Y31
 capital = "Tlemcen"
 is_city = yes
 culture = algerian
@@ -11,7 +11,7 @@ base_manpower = 3
 extra_cost = 16
 center_of_trade = 2
 add_core = ALG
-add_core = MOR
+add_core = Y31
 discovered_by = MGE
 discovered_by = eastern
 discovered_by = indian

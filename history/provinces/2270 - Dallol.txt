@@ -1,5 +1,5 @@
-owner = Z77
-controller = Z77
+owner = Z79
+controller = Z79
 capital = "Say"
 is_city = yes
 culture = songhai
@@ -8,8 +8,6 @@ trade_goods = grain
 base_tax = 1
 base_production = 1
 base_manpower = 3
-add_core = SON
-add_core = Z77
 add_core = Z79
 discovered_by = MGE
 discovered_by = eastern

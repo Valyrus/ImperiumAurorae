@@ -1,5 +1,5 @@
 owner = Z00
-controller = Z00
+controller = FEO
 capital = "Matrega"
 is_city = yes
 culture = goths

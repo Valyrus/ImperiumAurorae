@@ -1,5 +1,5 @@
-owner = Z00
-controller = Z00
+owner = CRI
+controller = CRI
 capital = "Azaraba"
 is_city = yes
 culture = crimean

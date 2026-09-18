@@ -1,6 +1,6 @@
 owner = Z00
-controller = Z00
-capital = "Kiev"
+controller = Z47
+capital = "Kyiv"
 is_city = yes
 culture = ruthenian
 religion = orthodox

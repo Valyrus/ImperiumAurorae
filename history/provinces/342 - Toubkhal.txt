@@ -1,5 +1,5 @@
-owner = MOR
-controller = MOR
+owner = Y30
+controller = Y30
 capital = "Rabat"
 is_city = yes
 culture = moroccan
@@ -10,7 +10,7 @@ base_production = 4
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = MOR
+add_core = Y30
 discovered_by = MGE
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = KBO
-controller = KBO
+owner = YAO
+controller = YAO
 capital = "Logone"
 is_city = yes
 culture = bilala
@@ -8,7 +8,6 @@ trade_goods = ivory
 base_tax = 1
 base_production = 1
 base_manpower = 3
-add_core = KBO
 add_core = YAO
 discovered_by = MGE
 discovered_by = eastern
